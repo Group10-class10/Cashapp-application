@@ -10,5 +10,5 @@ Spunky21
 
 That's great Spunky21
 I've rebased the changes in the master branch
-Let's contnue to collaborate.
-Swirz
+Let's continue to collaborate.
+Swirez
